@@ -1,0 +1,32 @@
+.div1{
+    float: left;
+    font-family: "YAEnXArs1iQ 0", _fb_, auto;
+    font-size: 70.6668px;
+    color: rgb(255, 255, 255);
+    line-height: 77px;
+  }
+.div2{
+  font-family: "YAEnXArs1iQ 0", _fb_, auto;
+    font-size: 29.3335px;
+    color: rgb(255, 255, 255);
+    line-height: 32px;
+   
+}
+.div3{
+  text-transform: none;
+    color: #ffffff;
+    font-family: YAEnS2G4JLg-0;
+    line-height: 1.2em;
+    direction: ltr;
+    font-size: 20px;
+}
+
+body{
+    background:rgb(12, 59, 46);
+}
+img{
+    width: 750px;
+    height:730px;
+    float: right;
+    padding-top: 0%;
+    }
